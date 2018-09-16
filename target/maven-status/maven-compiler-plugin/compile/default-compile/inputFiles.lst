@@ -1,0 +1,17 @@
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\entity\UserBase.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\filter\StaticAuthenticationProvider.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\tools\MD5.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\tools\LsTime.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\config\DataSourceConfiguration.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\service\UserBaseService.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\config\WebSecurityConfig.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\entity\Roles.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\filter\MyUserDetailsService.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\config\CoreController.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\AuthorApplication.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\filter\StaticUserDetailsService.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\filter\MyUsernamePasswordAuthenticationFilter.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\config\AuthorizationConfig.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\bean\HttpBaseEntity.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\bean\SimpleUser.java
+D:\javasrc\authorization\src\main\java\ywcai\ls\oauth\repository\UserBaseRepository.java
